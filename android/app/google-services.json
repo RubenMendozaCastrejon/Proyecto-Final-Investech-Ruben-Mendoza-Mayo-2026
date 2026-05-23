@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135217251215",
+    "project_id": "investech-3836a",
+    "storage_bucket": "investech-3836a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135217251215:android:f01f203a266fe23ce881fa",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final_investech_ruben_mendoza_mayo_2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5LhLWx0Fb7-5CjydcNJC5TWK_ok0H95U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
